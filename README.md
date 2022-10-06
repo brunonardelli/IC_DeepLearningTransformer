@@ -4,6 +4,8 @@ https://medium.com/mlearning-ai/transformer-implementation-for-time-series-forec
 https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance?select=PdM_telemetry.csv
 ## Run project
 ```shell
+.\venv\Scripts\activate
+
 python main.py ..\Data\
 ```
 positional arguments:
